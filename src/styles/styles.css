@@ -1,0 +1,17 @@
+@import "../assets/fonts/static/Inter-Regular.ttf";
+@import "../assets/fonts/static/Inter-SemiBold.ttf";
+
+* {
+  font-family: "Inter-Regular";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #345ff6;
+  --gunMetal: #253347;
+  --darkElectricBlue: #5e6e85;
+  --borders: #d8e2e7;
+  --pureWhite: #fff;
+}
